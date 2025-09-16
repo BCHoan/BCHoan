@@ -32,8 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHoan&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHoan&langs_count=10&layout=compact&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
 </p>
+
 
 ---
 
