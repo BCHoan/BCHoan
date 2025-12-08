@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BCHoan&langs_count=10&layout=compact&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BCHoan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
