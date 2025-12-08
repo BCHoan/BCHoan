@@ -35,12 +35,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHoan&langs_count=10&layout=compact&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
 </p>
 
-
 ---
 
 ### 🌐 You can checkout my website
 
 🔗 [My Website](https://hoandeptrai.online/)  
 🔗 [Facebook](https://www.facebook.com/conghoan61/?locale=vi_VN)
+
+---
+
+### 🧪 Thử nghiệm – Vọc vạch – Làm vài con side project cho vui  
+“**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
+
+---
+
+### 📫 Ping me here  
+Hoặc tại bất kỳ cái repo nào bạn thấy hay ho 😎  
 
 </div>
