@@ -44,23 +44,6 @@ Chắc bug không thích môi trường của anh thôi!”**
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BCHoan&theme=radical"
-    alt="Top languages by repo"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BCHoan&theme=radical"
-    alt="Top languages by commits"
-  />
-</p>
-
----
 
 ### 🌐 You can checkout my website
 
@@ -69,7 +52,6 @@ Chắc bug không thích môi trường của anh thôi!”**
 
 ---
 
-### 📫 Ping me here  
-Hoặc tại bất kỳ cái repo nào bạn thấy hay ho 😎  
+### 📫 Ping me here Hoặc tại bất kỳ cái repo nào bạn thấy hay ho 😎 
 
 </div>
