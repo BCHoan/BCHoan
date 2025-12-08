@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/EpeiJq8.gif" alt="conghoan" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/852b36fc-c5df-4c7a-8071-28362ee7ef77" 
+       alt="conghoan" width="250" height="250" />
 
   <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
 
@@ -37,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BCHoan&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BCHoan&layout=compact&theme=radical&hide_border=1" />
 </p>
 
 ---
@@ -49,7 +50,7 @@
 
 ---
 
-### 🧪 Thử nghiệm – Vọc vạch – Làm vài con side project cho vui  
+### 💻  Dev NRO – Fix Bug – Bot Zalo  
 “**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
 
 ---
