@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/852b36fc-c5df-4c7a-8071-28362ee7ef77" width="230" />
+</p>
+
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/852b36fc-c5df-4c7a-8071-28362ee7ef77" 
-       alt="conghoan" width="250" height="250" />
+ <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
 
-  <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
-  ### 💻  Dev NRO – Fix Bug – Bot Zalo  
+  ### 💻 Dev NRO – Fix Bug – Bot Zalo  
   “**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
 
   <p>Though I am ordinary among many.<br>
@@ -40,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BCHoan&layout=compact&theme=radical&hide_border=1" />
+  <img src="https://github-readme-stats-mir.vercel.app/api/top-langs/?username=BCHoan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
