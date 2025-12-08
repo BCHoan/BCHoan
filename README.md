@@ -6,8 +6,13 @@
 
  <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
 
-  ### 💻 Dev NRO – Fix Bug – Bot Zalo  
+  ### 💻 Dev NRO – Fix Bug – Bot Zalo - Dev Website
   “**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
+
+  Khách: “Code nó không chạy!”  
+Tôi: **“Ủa??? Trên máy tôi chạy phà phà mà 😳💻  
+Chắc bug không thích môi trường của anh thôi!”**
+
 
   <p>Though I am ordinary among many.<br>
   I am still the one and only in this world!</p>
