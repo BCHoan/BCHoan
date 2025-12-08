@@ -4,6 +4,8 @@
        alt="conghoan" width="250" height="250" />
 
   <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
+  ### 💻  Dev NRO – Fix Bug – Bot Zalo  
+  “**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
 
   <p>Though I am ordinary among many.<br>
   I am still the one and only in this world!</p>
@@ -47,11 +49,6 @@
 
 🔗 [My Website](https://hoandeptrai.online/)  
 🔗 [Facebook](https://www.facebook.com/conghoan61/?locale=vi_VN)
-
----
-
-### 💻  Dev NRO – Fix Bug – Bot Zalo  
-“**Code không bug thì không phải code mình viết**” – *Me, 5 minutes ago*
 
 ---
 
