@@ -5,7 +5,10 @@
   <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
 
   <p>Though I am ordinary among many.<br>
-  I am still the one and only in this world!</p>
+  I am still the one and only in this world!</p> <br> <br>
+
+  <p>Dù tôi bình thường giữa muôn vàn người.<br>
+  Tôi vẫn là duy nhất trên thế gian này!</p>
 
 ---
 
