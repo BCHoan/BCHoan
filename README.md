@@ -1,11 +1,13 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/GtKx7c8.gif" alt="conghoan" width="250" height="250"/>
+  <img src="https://i.imgur.com/EpeiJq8.gif" alt="conghoan" width="250" height="250"/>
 
   <h1>Hi, I'm 𝘽𝙪𝙞 𝘾𝙤𝙣𝙜 𝙃𝙤𝙖𝙣 👋</h1>
 
   <p>Though I am ordinary among many.<br>
-  I am still the one and only in this world!</p> <br> <br>
+  I am still the one and only in this world!</p>
+
+  <br>
 
   <p>Dù tôi bình thường giữa muôn vàn người.<br>
   Tôi vẫn là duy nhất trên thế gian này!</p>
@@ -35,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHoan&langs_count=10&layout=compact&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BCHoan&langs_count=10&layout=compact&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Top Langs"/>
 </p>
 
 ---
