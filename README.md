@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/852b36fc-c5df-4c7a-8071-28362ee7ef77" width="230" />
+  <img src="https://i.pinimg.com/736x/b4/39/3f/b4393f5f62753a58d5651ca192dab59a.jpg" width="250" />
 </p>
 
 <div align="center">
@@ -47,7 +47,17 @@ Chắc bug không thích môi trường của anh thôi!”**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mir.vercel.app/api/top-langs/?username=BCHoan&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BCHoan&theme=radical"
+    alt="Top languages by repo"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BCHoan&theme=radical"
+    alt="Top languages by commits"
+  />
 </p>
 
 ---
